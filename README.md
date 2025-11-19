@@ -23,11 +23,11 @@ A functional Myntra Clone built using **React.js** and **Node.js**, featuring a 
 - Discount calculation
 - Total amount calculation
 
-  ✔ Navbar with Menus, Search Bar, Profile, Wishlist & Bag icons
+✔ Navbar with Menus, Search Bar, Profile, Wishlist & Bag icons
 
-  ✔ Clean and modern UI inspired by Myntra
+✔ Clean and modern UI inspired by Myntra
 
-  ✔ Routing with React Router
+✔ Routing with React Router
 
 ---
 

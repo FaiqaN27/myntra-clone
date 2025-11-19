@@ -22,6 +22,7 @@ A functional Myntra Clone built using **React.js** and **Node.js**, featuring a 
 - Price details
 - Discount calculation
 - Total amount calculation
+
   ✔ Navbar with Menus, Search Bar, Profile, Wishlist & Bag icons
 
   ✔ Clean and modern UI inspired by Myntra

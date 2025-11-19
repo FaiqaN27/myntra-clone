@@ -9,9 +9,13 @@ A functional Myntra Clone built using **React.js** and **Node.js**, featuring a 
 ### 🖥️ Frontend (React.js)
 
 ✔ Fully responsive Home Page
+
 ✔ Product listings with image, price, rating, and discount
+
 ✔ Product details fetched from local JSON / API
+
 ✔ Working **Add to Bag**, **Remove from Bag**, and **Cart Count Update**
+
 ✔ Dynamic Cart Page with:
 
 - Quantity update
@@ -19,7 +23,9 @@ A functional Myntra Clone built using **React.js** and **Node.js**, featuring a 
 - Discount calculation
 - Total amount calculation
   ✔ Navbar with Menus, Search Bar, Profile, Wishlist & Bag icons
+
   ✔ Clean and modern UI inspired by Myntra
+
   ✔ Routing with React Router
 
 ---
@@ -27,8 +33,11 @@ A functional Myntra Clone built using **React.js** and **Node.js**, featuring a 
 ### 🚀 Backend
 
 ✔ API to serve product data
+
 ✔ API routes: `/products`, `/cart`
+
 ✔ Simple in-memory / JSON-based cart (optional)
+
 ✔ Can be later extended to MongoDB / Firebase / MySQL
 
 ---
